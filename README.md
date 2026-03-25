@@ -22,6 +22,7 @@ This repository documents my daily solutions.
 | Day 3 | Best Time to Buy or Sell Stock | Beginner | [view](/ParkhiAgarwal_24-3-26_Day-3.md) 
 |  | Sort Colors | Intermediate | [view](/ParkhiAgarwal_24-3-26_Day-3.md) 
 |  | Largest Rectangle in Histogram | Advanced | [view](/ParkhiAgarwal_24-3-26_Day-3.md) 
+| Day 4 | Missing Number | Beginner | [view](/ParkhiAgarwal_25-3-26_Day-4.md) 
 ---
 
 
