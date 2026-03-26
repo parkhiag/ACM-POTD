@@ -23,6 +23,7 @@ This repository documents my daily solutions.
 |  | Sort Colors | Intermediate | [view](/ParkhiAgarwal_24-3-26_Day-3.md) 
 |  | Largest Rectangle in Histogram | Advanced | [view](/ParkhiAgarwal_24-3-26_Day-3.md) 
 | Day 4 | Missing Number | Beginner | [view](/ParkhiAgarwal_25-3-26_Day-4.md) 
+| Day 5 | Moving Zeros | Beginner | [view](/ParkhiAgarwal_26-3-26_Day-5.md) 
 ---
 
 
