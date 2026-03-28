@@ -28,6 +28,7 @@ This repository documents my daily solutions.
 | Day 6 | Check if N and its duplicates exist | Beginner | [view](/ParkhiAgarwal_27-3-26_Day-6.md) 
 |  | Continous subarray sum | Intermediate | [view](/ParkhiAgarwal_27-3-26_Day-6.md) 
 | Day 7 | Rotate Array | Beginner | [view](/ParkhiAgarwal_28-3-26_Day-7.md) 
+|  | Increasing Triplet Subsequence | Intermediate | [view](/ParkhiAgarwal_28-3-26_Day-7.md) 
 ---
 
 
