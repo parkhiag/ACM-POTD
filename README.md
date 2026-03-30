@@ -29,6 +29,8 @@ This repository documents my daily solutions.
 |  | Continous subarray sum | Intermediate | [view](/ParkhiAgarwal_27-3-26_Day-6.md) 
 | Day 7 | Rotate Array | Beginner | [view](/ParkhiAgarwal_28-3-26_Day-7.md) 
 |  | Increasing Triplet Subsequence | Intermediate | [view](/ParkhiAgarwal_28-3-26_Day-7.md) 
+| Day 8 | Rotate Linked List | Beginner | [view](/ParkhiAgarwal_29_-3-26_Day-8.md) 
+| Day 9 | Linked List Cycle | Beginner | [view](/ParkhiAgarwal_30-3-26_Day-9.md) 
 ---
 
 
