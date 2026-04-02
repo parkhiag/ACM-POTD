@@ -33,6 +33,8 @@ This repository documents my daily solutions.
 | Day 9 | Linked List Cycle | Beginner | [view](/ParkhiAgarwal_30-3-26_Day-9.md) 
 | Day 10 | Middle of Linked List | Beginner | [view](/ParkhiAgarwal_31-3-26_Day-10.md) 
 | Day 11 | Merge 2 sorted list | Beginner | [view](/ParkhiAgarwal_1-4-26_Day-11.md) 
+| Day 12 | Remove Duplicates From Sorted list | Beginner | [view](/ParkhiAgarwal_2-4-26_Day-12.md) 
+| | Rotate Linked List | Intermediate | [view](/ParkhiAgarwal_2-4-26_Day-12.md) 
 ---
 
 
