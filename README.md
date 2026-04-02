@@ -31,6 +31,8 @@ This repository documents my daily solutions.
 |  | Increasing Triplet Subsequence | Intermediate | [view](/ParkhiAgarwal_28-3-26_Day-7.md) 
 | Day 8 | Rotate Linked List | Beginner | [view](/ParkhiAgarwal_29_-3-26_Day-8.md) 
 | Day 9 | Linked List Cycle | Beginner | [view](/ParkhiAgarwal_30-3-26_Day-9.md) 
+| Day 10 | Middle of Linked List | Beginner | [view](/ParkhiAgarwal_31-3-26_Day-10.md) 
+| Day 11 | Merge 2 sorted list | Beginner | [view](/ParkhiAgarwal_1-4-26_Day-11.md) 
 ---
 
 
