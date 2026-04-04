@@ -35,6 +35,8 @@ This repository documents my daily solutions.
 | Day 11 | Merge 2 sorted list | Beginner | [view](/ParkhiAgarwal_1-4-26_Day-11.md) 
 | Day 12 | Remove Duplicates From Sorted list | Beginner | [view](/ParkhiAgarwal_2-4-26_Day-12.md) 
 | | Rotate Linked List | Intermediate | [view](/ParkhiAgarwal_2-4-26_Day-12.md) 
+| Day 13 | Intersection of two linked list | Beginner | [view](/ParkhiAgarwal_3-4-26_Day-13.md) 
+| Day 14 | Palindrome Linked List | Beginner | [view](/ParkhiAgarwal_4-4-26_Day-14.md) 
 ---
 
 
