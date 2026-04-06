@@ -37,6 +37,9 @@ This repository documents my daily solutions.
 | | Rotate Linked List | Intermediate | [view](/ParkhiAgarwal_2-4-26_Day-12.md) 
 | Day 13 | Intersection of two linked list | Beginner | [view](/ParkhiAgarwal_3-4-26_Day-13.md) 
 | Day 14 | Palindrome Linked List | Beginner | [view](/ParkhiAgarwal_4-4-26_Day-14.md) 
+| Day 15 | Valid Parenthesis | Beginner | [view](/ParkhiAgarwal_5-4-26_Day-15.md) 
+| Day 16 | Implement Queue using stack | Beginner | [view](/ParkhiAgarwal_6-4-26_Day-16.md) 
+
 ---
 
 
